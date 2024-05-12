@@ -1,6 +1,4 @@
 from turtle import Turtle,Screen
-# from lakshay import Score
-
 my_screen = Screen()
 my_screen.tracer(0)
 my_screen.setup(width = 600, height = 600)
